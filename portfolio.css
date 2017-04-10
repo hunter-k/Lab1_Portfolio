@@ -12,3 +12,17 @@ div.jumbotron {
   background: rgba(106, 198, 79, 0.88);
   box-shadow: 10px 10px 5px #57407a;
 }
+
+#table {
+  margin-left: 20px;
+  background: rgba(106, 198, 79, 0.88);
+  box-shadow: 10px 10px 5px #57407a;
+}
+
+body {
+  background: linear-gradient(-90deg, #aaaeb5, #FFFFFF);
+}
+
+h1 {
+  text-align: center;
+}
