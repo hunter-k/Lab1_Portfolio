@@ -1,0 +1,14 @@
+#navbar {
+	background: rgba(106, 198, 79, 0.88);
+  box-shadow: 10px 10px 5px #57407a;
+  color: rgb(76, 75, 78);
+}
+
+#spacer {
+    margin-top: 40px;
+}
+
+div.jumbotron {
+  background: rgba(106, 198, 79, 0.88);
+  box-shadow: 10px 10px 5px #57407a;
+}
